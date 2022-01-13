@@ -3,4 +3,4 @@ This repository contains additional information for a poster entitled "Phenotypi
 - The original report "Metabolomic changes underlying phenotypic and behavioural plasticity of *Daphnia magna* (Strauss) in reaction to salinity stress"
 - Additional photos obtained during the microscopy part of the behavioural analysis. 
 
-For any questions, I can be contact via  [email](alice.desampaiokalkuhl@student.uantwerpen.be) or on [twitter](https://twitter.com/quantumlandbook).
+For any questions, I can be contact via  [email](desampaa@tcd.ie) or on [twitter](https://twitter.com/quantumlandbook).
